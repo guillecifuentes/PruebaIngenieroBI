@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "IngenieroBI_Proj", "IngenieroBI_Proj.dtproj", "{1C47FC4A-4AF9-4503-8710-4E9720A7F202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C47FC4A-4AF9-4503-8710-4E9720A7F202}.Development|Default.ActiveCfg = Development
+		{1C47FC4A-4AF9-4503-8710-4E9720A7F202}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65CB698C-3EC6-4DFC-B2E8-C9C21A36A7ED}
+	EndGlobalSection
+EndGlobal
