@@ -58,7 +58,7 @@ Begin
 			+  Right('0' + Cast(  DATEPART( dd, fecha) As varchar(5)), 2) AS 'ID_FECHA'
 		, fecha 
 		, DATEPART( yyyy, fecha  ) as 'anio'
-		, Right('0' + Cast(  DATENAME(month, fecha) As varchar(5)), 2) AS 'MES'
+		, DATENAME(month, fecha) AS 'MES'
 		, Right('0' + Cast(  DATEPART( mm, fecha) As varchar(5)), 2) AS 'NUMERO_MES'
 		, Right('0' + Cast(  DATEPART( dd, fecha) As varchar(5)), 2) AS 'DIA'
 		, DATEPART( dw, fecha  ) as 'dia_number'
