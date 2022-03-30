@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>IngenieroBI_Proj</Name>
-    <LastWriteTime>2022-03-29T04:11:44.8985969Z</LastWriteTime>
+    <LastWriteTime>2022-03-30T14:10:24.9954877Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -24,6 +24,16 @@
     <ProjectBuildItemInfo>
       <Name>ETL_dim_afiliado.dtsx</Name>
       <LastWriteTime>2022-03-29T04:14:21.0541289Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>ETL_fact_operaciones_libranza.dtsx</Name>
+      <LastWriteTime>2022-03-30T16:05:06.1134955Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Orquestador_OLPT_DWH.dtsx</Name>
+      <LastWriteTime>2022-03-30T14:05:48.7421675Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

@@ -1,0 +1,39 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>DWH p01</Id>
+            <Name>DWH p01</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADmAFMLr61kWxsrzWqDIu1gAAAAAQAAAARABXAEgAIABwADAAMQAAABBmAAAAAQAAIAAAAAN8d2iDP6CYgdU6CW85j9BbVnU4LLxdUJC7h31bhsSIAAAAAA6AAAAAAgAAIAAAAGaFb8fc+NpYbBZaxmXzTwfYcUmBBy6sFCxZle6dQoJ2EAAAAEHecKK+ycEs8h7TtBCPj55AAAAAMTliddE+CaW7d8snLykzgIH32pHggfcpwFXMgmUlSO5zl4LXdbZCT8B44y7HZt1ZbslPojB2KLzM33rhxP/6Qw==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DS_DWH p01</Id>
+            <Name>DS_DWH p01</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADmAFMLr61kWxsrzWqDIu1gAAAAAWAAAARABTAF8ARABXAEgAIABwADAAMQAAABBmAAAAAQAAIAAAAKFVBrNWkpfpwsZcdjgyg1Gc28PUSXhHq6ZCjkZ0Uap3AAAAAA6AAAAAAgAAIAAAAC7GPzg43B0Fro856cKQTHlQQk0X6ll4xgzLdjQ/rcyUEAAAABNteG91A2I18umeM2GrsFhAAAAAvxhnP8KaYSkgjtJH0SgbnCL8NECMlyBtFjV3RYJXhYgFszj2eHGyQtwl9RPP5tvS7YT+cp5Og4iYltsHgAn/FQ==</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>DWH p01</Id>
+            <Name>DWH p01</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADmAFMLr61kWxsrzWqDIu1gAAAAAQAAAARABXAEgAIABwADAAMQAAABBmAAAAAQAAIAAAACCNSHPX1PQv26OlIXofoeoxjg6GCCgyRL8Tf5efNGynAAAAAA6AAAAAAgAAIAAAAGXI9fs4x1BSua0s3JJkhhC8VyJyNSrXbW066MlpwVRfIAAAAJUofdNgwp39q12/8i+qdM+vlJAP9Rw/KdUjFJROxWW1QAAAAKygrcEUPCAumQzEe0k0DvV5peDYTm5vJuJ6O134bt6h6WAbBt+eLa5S/lEuqfqO7gaxyuw61YXKYYR9nViKqSE=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>DS_DWH p01</Id>
+            <Name>DS_DWH p01</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAADmAFMLr61kWxsrzWqDIu1gAAAAAWAAAARABTAF8ARABXAEgAIABwADAAMQAAABBmAAAAAQAAIAAAAM6FejcSIvYLK61Mxj5zBhsQSlLCQWHCXdpfFA9jA/9sAAAAAA6AAAAAAgAAIAAAADnsMzmRjB+0970klieebnfDeNB68TUtOICpuYqyazyHIAAAAF4qlkmO8/JE8SBVjugH7R4LwgArLT0FXqQrcx+VOz6wQAAAAAKcVvII9Rn/xhoLZu/fE5Ik3hhZl7XyQ4T9+rzQYZ3UZnCzW2TRRfr3fB3ptgCovCHDAlcCz0oSHEV6pKx35EE=</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>localhost</TargetServer>
+        <TargetDatabase>CuboPruebaIngenieroBI</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
