@@ -188,6 +188,14 @@
           </Source>
         </KeyColumn>
       </KeyColumns>
+      <ValueColumn dwd:design-time-name="63bbf133-bfe5-4a74-a3fe-24f128549730">
+        <DataType>WChar</DataType>
+        <DataSize>20</DataSize>
+        <Source xsi:type="ColumnBinding" dwd:design-time-name="038d3c9c-71f9-44ad-a7ee-18dba85aecdb">
+          <TableID>dbo_dim_tiempo</TableID>
+          <ColumnID>mes</ColumnID>
+        </Source>
+      </ValueColumn>
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
       <ddl300_300:FormatString>00</ddl300_300:FormatString>

@@ -201,6 +201,14 @@
               </Source>
             </KeyColumn>
           </KeyColumns>
+          <ValueColumn>
+            <DataType>WChar</DataType>
+            <DataSize>20</DataSize>
+            <Source xsi:type="ColumnBinding">
+              <TableID>dbo_dim_tiempo</TableID>
+              <ColumnID>mes</ColumnID>
+            </Source>
+          </ValueColumn>
           <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
           <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
           <ddl300_300:FormatString>00</ddl300_300:FormatString>
